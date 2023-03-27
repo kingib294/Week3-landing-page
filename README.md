@@ -16,7 +16,6 @@
                 margin-top:0%;
                 margin-bottom:0px;
                 padding: 0%;
-                height: 150px;
                 justify-content: space-around;
             }
             .topnav{
@@ -151,7 +150,7 @@
                 <div>
                     <center>
                         <h1 style="color:red;">Iphone</h1>
-                    <img src=".\Img\oip.jpg" alt="ipone" class="pic">
+                    <img src=".\Img\OIP.jpg" alt="ipone" class="pic">
                     
                     <center><button id="buyNow">Add to cart</button></center>
                     <br>
