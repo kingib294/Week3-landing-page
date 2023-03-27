@@ -204,8 +204,4 @@
             </section>
            </main>
            <footer style="color:whitesmoke; text-align: center;">cc: King IB</footer>
-    </body>![pic1](https://user-images.githubusercontent.com/127105078/227870467-62b7f9e9-e9f6-48b0-b9d4-9395089c6d78.jpg)
-![pic2](https://user-images.githubusercontent.com/127105078/227870474-12228da8-4f09-4cd3-8f94-cb8554b20edd.jpg)
-![pic3](https://user-images.githubusercontent.com/127105078/227870478-86930f0e-f238-47a3-ab4e-bc76136b63e2.jpg)
-![logo](https://user-images.githubusercontent.com/127105078/227870481-77286b63-91a3-4507-8409-88d84e91f07b.png)
-![OIP](https://user-images.githubusercontent.com/127105078/227870483-20b57e2e-0ffa-4745-a692-97a4f4f37f05.jpg)
+    </body>
