@@ -150,11 +150,6 @@
                 <div>
                     <center>
                         <h1 style="color:red;">Iphone</h1>
-                    <img src=".\Img\OIP.jpg" alt="ipone" class="pic">
-                    
-                    <center><button id="buyNow">Add to cart</button></center>
-                    <br>
-                    
                     <img src=".\Img\pic1.jpg" class="pic">
                     <center><button id="buyNow">Add to cart</button></center>
                         <br>
